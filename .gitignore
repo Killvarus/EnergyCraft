@@ -1,0 +1,26 @@
+# Виртуальное окружение (твоё называется Geophysics)
+GeoVenv/
+geoVenv/
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows системные файлы
+Thumbs.db
+.DS_Store
